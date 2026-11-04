@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- PORTRAIT -->
-<img src="https://sgm-shah.web.app/assets/profile.jpg" onerror="this.src='assets/portrait.svg'" width="220" style="border-radius: 50%;" alt="SGM SHAH">
+<!-- PORTRAIT - Directly fetches your active GitHub profile picture -->
+<img src="https://github.com/SGM-SHAH.png" width="220" style="border-radius: 50%; border: 3px solid #39D353;" alt="SGM SHAH">
 
 <br><br>
 
