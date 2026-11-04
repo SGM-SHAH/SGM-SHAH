@@ -26,4 +26,57 @@
 ## `~/` whoami
 
 ```console
-$ cat about.txt
+$ cat about.txtHi, I'm SGM SHAH — an aspiring AI/ML Engineer and B.Tech CSE (AI/ML) undergraduate at SRM University-AP. I focus on training and deploying intelligent models, engineering scalable data workflows, and developing robust full-stack applications.
+
+🔭 Currently building IPL Auction Simulator & deep learning models
+
+🌐 Portfolio: sgm-shah.web.app
+
+🏆 Hackathons & Highlights: My1stHack 2025 (Team Apex Coders) • AR/VR Immersive Workshop • Campus & Community Event Tech
+
+📜 Industry Certifications: Google Project Management • Mastercard Cybersecurity • JPMorgan Chase Software Engineering
+
+⚡ Focus: Applied Machine Learning, Data Processing Pipelines & Algorithmic Problem Solving
+
+🏏 Fun fact: When not training models or debugging code, you'll find me watching cricket, debating, or deep into a book.
+Project,Live / Demo,Stack,Description
+Developer Portfolio,sgm-shah.web.app,React Tailwind CSS Firebase,"Clean personal developer portal showcasing projects, achievements, and technical stack."
+IPL Auction Simulator,Simulate Auction,JavaScript Node.js Firebase,"Interactive auction room engine handling live bidding, squad constraints, and purse deduction logic."
+Data Pipeline & Processor,View Engine,Python Pandas Power Query,High-throughput data processing workflow converting 400 MB JSON datasets into structured Excel sheets.
+DSA & Systems Suite,View Source,C Java C# OOP Design,"Optimized implementations of tree traversals, matrix manipulation, and algorithm patterns."
+01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01100111
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Run every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Generate contribution snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: SGM-SHAH
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Deploy SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
