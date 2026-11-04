@@ -26,7 +26,8 @@
 ## `~/` whoami
 
 ```console
-$ cat about.txtHi, I'm SGM SHAH — an aspiring AI/ML Engineer and B.Tech CSE (AI/ML) undergraduate at SRM University-AP. I focus on training and deploying intelligent models, engineering scalable data workflows, and developing robust full-stack applications.
+$ cat about.txtHi, 
+I'm SGM SHAH — an aspiring AI/ML Engineer and B.Tech CSE (AI/ML) undergraduate at SRM University-AP. I focus on training and deploying intelligent models, engineering scalable data workflows, and developing robust full-stack applications.
 
 🔭 Currently building IPL Auction Simulator & deep learning models
 
