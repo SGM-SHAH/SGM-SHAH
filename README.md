@@ -1,7 +1,9 @@
+
+```markdown
 <div align="center">
 
-<!-- PORTRAIT - Directly fetches your active GitHub profile picture -->
-<img src="https://github.com/SGM-SHAH.png" width="220" style="border-radius: 50%; border: 3px solid #39D353;" alt="SGM SHAH">
+<!-- PORTRAIT -->
+<img src="https://avatars.githubusercontent.com/SGM-SHAH" width="220" style="border-radius: 50%; border: 3px solid #39D353;" alt="SGM SHAH">
 
 <br><br>
 
@@ -27,18 +29,43 @@
 
 ```console
 $ cat about.txt
-Hi, I'm SGM SHAH — an aspiring AI/ML Engineer and B.Tech CSE (AI/ML) undergraduate at SRM University-AP. I focus on creating websites 
 
-🔭 Currently building IPL Auction Simulator & deep learning models
+```
 
-🌐 Portfolio: sgm-shah.web.app
+Hi, I'm **SGM SHAH** — an aspiring **AI/ML Engineer** and **B.Tech CSE (AI/ML)** undergraduate at **SRM University-AP**. I focus on training and deploying intelligent models, engineering scalable data workflows, and developing robust full-stack applications.
 
-🏆 Hackathons & Highlights: My1stHack 2025 (Team Apex Coders) • AR/VR Immersive Workshop • Campus & Community Event Tech
+* 🔭 Currently building **[IPL Auction Simulator](https://sgm-shah.web.app/)** & deep learning models
+* 🌐 Portfolio: **[sgm-shah.web.app](https://sgm-shah.web.app/)**
+* 🏆 Hackathons & Highlights: **My1stHack 2025** (Team Apex Coders) • AR/VR Immersive Workshop • Campus & Community Event Tech
+* 📜 Industry Certifications: **Google Project Management** • **Mastercard Cybersecurity** • **JPMorgan Chase Software Engineering**
+* ⚡ Focus: **Applied Machine Learning, Data Processing Pipelines & Algorithmic Problem Solving**
+* 🏏 Fun fact: **When not training models or debugging code, you'll find me watching cricket, debating, or deep into a book.**
 
-📜 Industry Certifications: Google Project Management • Mastercard Cybersecurity • JPMorgan Chase Software Engineering
+## `~/` toolbox
 
-⚡ Focus: Applied Machine Learning, Data Processing Pipelines & Algorithmic Problem Solving
+---
 
-🏏 Fun fact: When not training models or debugging code, you'll find me watching cricket, debating, or deep into a book.
-Project,Live / Demo,Stack,Description
-Developer Portfolio,sgm-shah.web.app,React Tailwind CSS Firebase,"Clean personal developer portal showcasing projects, achievements, and technical stack."
+## `~/` contribution calendar
+
+---
+
+## `~/` the numbers
+
+
+
+
+
+---
+
+## `~/` selected work
+
+| Project | Live / Demo | Stack | Description |
+| --- | --- | --- | --- |
+| **[Developer Portfolio](https://sgm-shah.web.app/)** | [sgm-shah.web.app](https://sgm-shah.web.app/) | `React` `Tailwind CSS` `Firebase` | Clean personal developer portal showcasing projects, achievements, and technical stack. |
+| **[IPL Auction Simulator](https://sgm-shah.web.app/)** | [Simulate Auction](https://sgm-shah.web.app/) | `JavaScript` `Node.js` `Firebase` | Interactive auction room engine handling live bidding, squad constraints, and purse deduction logic. |
+| **[Data Pipeline & Processor](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FSGM-SHAH)** | [View Engine](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FSGM-SHAH) | `Python` `Pandas` `Power Query` | High-throughput data processing workflow converting 400 MB JSON datasets into structured Excel sheets. |
+| **[DSA & Systems Suite](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FSGM-SHAH)** | [View Source](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FSGM-SHAH) | `C` `Java` `C#` `OOP Design` | Optimized implementations of tree traversals, matrix manipulation, and algorithm patterns. |
+
+---
+
+`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01100111`
