@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 <!-- PORTRAIT -->
@@ -32,11 +33,11 @@ $ cat about.txt
 
 Hi, I'm **SGM SHAH** — an aspiring **AI/ML Engineer** and **B.Tech CSE (AI/ML)** undergraduate at **SRM University-AP**. I focus on training and deploying intelligent models, engineering scalable data workflows, and developing robust full-stack applications.
 
-* 🔭 Currently building **[IPL Auction Simulator](https://sgm-shah.web.app/)** & deep learning models
+* 🔭 Currently building **[IPL Auction Simulator](https://ipl-auction-a81df.web.app/)** & deep learning models
 * 🌐 Portfolio: **[sgm-shah.web.app](https://sgm-shah.web.app/)**
 * 🏆 Hackathons & Highlights: **My1stHack 2025** (Team Apex Coders) • AR/VR Immersive Workshop • Campus & Community Event Tech
 * 📜 Industry Certifications: **Google Project Management** • **Mastercard Cybersecurity** • **JPMorgan Chase Software Engineering**
-* ⚡ Focus: **Applied Machine Learning, Data Processing Pipelines & Algorithmic Problem Solving**
+* ⚡ Focus: **Applied Machine Learning, Web Engineering & Algorithmic Problem Solving**
 * 🏏 Fun fact: **When not training models or debugging code, you'll find me watching cricket, debating, or deep into a book.**
 
 ## `~/` toolbox
@@ -60,9 +61,8 @@ Hi, I'm **SGM SHAH** — an aspiring **AI/ML Engineer** and **B.Tech CSE (AI/ML)
 | Project | Live / Demo | Stack | Description |
 | --- | --- | --- | --- |
 | **[Developer Portfolio](https://sgm-shah.web.app/)** | [sgm-shah.web.app](https://sgm-shah.web.app/) | `React` `Tailwind CSS` `Firebase` | Clean personal developer portal showcasing projects, achievements, and technical stack. |
-| **[IPL Auction Simulator](https://sgm-shah.web.app/)** | [Simulate Auction](https://sgm-shah.web.app/) | `JavaScript` `Node.js` `Firebase` | Interactive auction room engine handling live bidding, squad constraints, and purse deduction logic. |
-| **[Data Pipeline & Processor](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FSGM-SHAH)** | [View Engine](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FSGM-SHAH) | `Python` `Pandas` `Power Query` | High-throughput data processing workflow converting 400 MB JSON datasets into structured Excel sheets. |
-| **[DSA & Systems Suite](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FSGM-SHAH)** | [View Source](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FSGM-SHAH) | `C` `Java` `C#` `OOP Design` | Optimized implementations of tree traversals, matrix manipulation, and algorithm patterns. |
+| **[IPL Auction Simulator](https://ipl-auction-a81df.web.app/)** | [ipl-auction-a81df.web.app](https://ipl-auction-a81df.web.app/) | `JavaScript` `Node.js` `Firebase` | Interactive auction room engine handling live bidding, squad constraints, and purse deduction logic. |
+| **[Resume Builder](https://resume-writer-sigma.vercel.app/)** | [resume-writer-sigma.vercel.app](https://resume-writer-sigma.vercel.app/) | `React` `Next.js` `Tailwind CSS` `TypeScript` | Intuitive resume creation and formatting tool designed to generate clean, professional ATS-ready resumes. |
 
 ---
 
