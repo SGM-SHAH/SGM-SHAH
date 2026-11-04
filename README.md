@@ -40,20 +40,6 @@ Hi, I'm **SGM SHAH** — an aspiring **AI/ML Engineer** and **B.Tech CSE (AI/ML)
 * ⚡ Focus: **Applied Machine Learning, Web Engineering & Algorithmic Problem Solving**
 * 🏏 Fun fact: **When not training models or debugging code, you'll find me watching cricket, debating, or deep into a book.**
 
-## `~/` toolbox
-
----
-
-## `~/` contribution calendar
-
----
-
-## `~/` the numbers
-
-
-
-
-
 ---
 
 ## `~/` selected work
