@@ -122,7 +122,11 @@ Hi, I'm **Shaik Ghouse Mohiddin Shah** (handle: **SGM SHAH**) — an aspiring **
 
 <br><br>
 
-<img src="assets/metrics.achievements.svg" width="90%" alt="achievements">
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/card-achievements-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-achievements-light.svg">
+  <img src="assets/card-achievements-dark.svg" width="90%" alt="achievements and certifications">
+</picture>
 
 </div>
 

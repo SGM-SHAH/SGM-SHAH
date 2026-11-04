@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 135" width="100%" height="135">
+  <style>
+    .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 600; fill: #39d353; }
+    .item-title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; fill: #e6edf3; }
+    .item-desc { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 11px; fill: #8b949e; }
+    .badge { font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, monospace; font-size: 9px; font-weight: 700; }
+  </style>
+  <rect width="800" height="135" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <text x="20" y="27" class="title">🏆 Achievements &amp; Certifications</text>
+  <g transform="translate(16, 40)">
+    <g transform="translate(0, 0)">
+      <rect width="186" height="80" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <circle cx="22" cy="24" r="11" fill="#d2992220" />
+      <path transform="translate(14, 16) scale(1)" fill="#d29922" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A1.75 1.75 0 018.25 6h.5a1.75 1.75 0 011.75 1.75v.5A1.75 1.75 0 018.75 10h-.5A1.75 1.75 0 016.5 8.25v-.5z"/>
+      <text x="39" y="21" class="badge" fill="#f0883e">HACKATHON</text>
+      <text x="39" y="34" class="item-title">My1stHack 2025</text>
+      <text x="14" y="55" class="item-desc">Team Apex Coders</text>
+      <text x="14" y="69" class="item-desc">Rapid AI Prototyping</text>
+    </g>
+    <g transform="translate(194, 0)">
+      <rect width="186" height="80" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <circle cx="22" cy="24" r="11" fill="#58a6ff20" />
+      <path transform="translate(14, 16) scale(1)" fill="#58a6ff" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"/>
+      <text x="39" y="21" class="badge" fill="#58a6ff">SIMULATION CERT</text>
+      <text x="39" y="34" class="item-title">Software Eng.</text>
+      <text x="14" y="55" class="item-desc">Architecture & Quality</text>
+      <text x="14" y="69" class="item-desc">Industry Simulation</text>
+    </g>
+    <g transform="translate(388, 0)">
+      <rect width="186" height="80" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <circle cx="22" cy="24" r="11" fill="#bc8cff20" />
+      <path transform="translate(14, 16) scale(1)" fill="#bc8cff" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"/>
+      <text x="39" y="21" class="badge" fill="#bc8cff">SIMULATION CERT</text>
+      <text x="39" y="34" class="item-title">Cybersecurity</text>
+      <text x="14" y="55" class="item-desc">Threat Analysis & Defense</text>
+      <text x="14" y="69" class="item-desc">Industry Simulation</text>
+    </g>
+    <g transform="translate(582, 0)">
+      <rect width="186" height="80" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+      <circle cx="22" cy="24" r="11" fill="#39d35320" />
+      <path transform="translate(14, 16) scale(1)" fill="#39d353" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"/>
+      <text x="39" y="21" class="badge" fill="#39d353">SIMULATION CERT</text>
+      <text x="39" y="34" class="item-title">Project Mgmt.</text>
+      <text x="14" y="55" class="item-desc">Agile & Delivery</text>
+      <text x="14" y="69" class="item-desc">Industry Simulation</text>
+    </g>
+  </g>
+</svg>
