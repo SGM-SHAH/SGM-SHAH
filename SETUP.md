@@ -66,3 +66,4 @@ Go to your repository's **Actions** tab on GitHub:
 1. **Metrics** → click **Run workflow** (generates updated `assets/metrics.isocalendar.svg`, `assets/metrics.languages.svg`, `assets/metrics.achievements.svg`).
 2. **Snake** → click **Run workflow** (generates snake eating contribution grid on the `output` branch).
 3. **Charts and cards** → click **Run workflow** (refreshes radar charts and project cards).
+
