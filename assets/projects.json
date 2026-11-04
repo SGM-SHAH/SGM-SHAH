@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos in README order. Star/fork/language are fetched live on every workflow run.",
+  "projects": [
+    {
+      "repo": "IPL-AUCTION",
+      "description": "Interactive real-time IPL Auction Simulator featuring live bidding, purse tracking, and squad constraints."
+    },
+    {
+      "repo": "RESUME-WRITER",
+      "description": "Modern ATS-ready Resume Builder with customizable formatting, real-time preview, and clean export."
+    },
+    {
+      "repo": "SGM_SHAH",
+      "description": "Personal developer portfolio showcasing intelligent full-stack applications, skills, and interactive UI."
+    },
+    {
+      "repo": "Predicting_Vulnerabilities",
+      "description": "Software vulnerability prediction framework analyzing software metrics and system patterns."
+    }
+  ]
+}
